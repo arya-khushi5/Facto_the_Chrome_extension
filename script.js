@@ -3,8 +3,8 @@ async function fetchData(){
 	const options = {
 	method: 'GET',
 	headers: {
-		'X-RapidAPI-Key': '1937e3e54amsh8813ae924a1df86p137464jsn5d3080390920',
-		'X-RapidAPI-Host': 'fun-facts1.p.rapidapi.com'
+		'X-RapidAPI-Key': 'YOUR_KEY',
+		'X-RapidAPI-Host': 'YOUR HOST'
 	}
 };
 
